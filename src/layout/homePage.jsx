@@ -5,7 +5,7 @@ import LoadingSpinner from "../components/spinner.jsx";
 import OuterCarousel from "../components/carousel.jsx";
 import VideoModal from "../components/videoModal.jsx";
 
-export default function Home() {
+export default function HomePage() {
   const {
     videos,
     likedIds,

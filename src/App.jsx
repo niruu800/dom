@@ -1,13 +1,13 @@
 import "./App.css";
 import { VideoProvider } from "./context/videocontext";
-import Home from "./MainPagw/homePage";
+import HomePage from "./layout/homePage";
 
 function App() {
   return (
     <>
       <VideoProvider>
         {/* <h1 className="text-red-500">Hello Wordd</h1> */}
-        <Home />
+        <HomePage />
       </VideoProvider>
     </>
   );
