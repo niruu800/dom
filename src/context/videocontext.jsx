@@ -17,7 +17,7 @@ export const VideoProvider = ({ children }) => {
       setLoading(true);
 
       const res = await axios.get(`${API}/videos`);
-      // console.log("Response =>", res.data);
+      console.log("Response =>", res.data);
 
       setVideos(res?.data);
     } catch (err) {

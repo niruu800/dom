@@ -17,7 +17,7 @@ export default function HomePage() {
     handleLike,
     handleShare,
   } = useVideoContext();
-console.log("selectedIndex =", selectedIndex);
+// console.log("selectedIndex =", selectedIndex);
   const handleVideoClick = (index) => {
     openModal(index);
   };
