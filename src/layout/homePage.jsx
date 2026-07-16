@@ -1,6 +1,6 @@
 import React, { useCallback } from "react";
 import { Flame, TrendingUp } from "lucide-react";
-import { useVideoContext } from "../context/VideoContext.jsx";
+import { useVideoContext } from "../context/videocontext.jsx";
 import LoadingSpinner from "../components/spinner.jsx";
 import OuterCarousel from "../components/carousel.jsx";
 import VideoModal from "../components/videoModal.jsx";
