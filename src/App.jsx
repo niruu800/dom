@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <VideoProvider>
-        <h1 className="text-red-500">Hello Wordd</h1>
+        {/* <h1 className="text-red-500">Hello Wordd</h1> */}
         <Home />
       </VideoProvider>
     </>
