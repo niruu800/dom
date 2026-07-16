@@ -1,0 +1,270 @@
+{
+  "videos": [
+    {
+      "likes": 60,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Ocean",
+      "description": "Ocean waves",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+      "url": "https://www.w3schools.com/html/movie.mp4",
+      "likes": 23,
+      "shares": 4
+    },
+    {
+      "id": "3",
+      "title": "Mountains",
+      "description": "Mountain View",
+      "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600",
+      "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "likes": 41,
+      "shares": 10
+    },
+    {
+      "id": "4",
+      "title": "Forest Trails",
+      "description": "Deep walk into the green woods",
+      "thumbnail": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "likes": 55,
+      "shares": 14
+    },
+    {
+      "id": "5",
+      "title": "Desert Sunsets",
+      "description": "Golden hour in the Sahara",
+      "thumbnail": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600",
+      "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "likes": 89,
+      "shares": 22
+    },
+    {
+      "id": "6",
+      "title": "City Lights",
+      "description": "Tokyo skyline at midnight",
+      "thumbnail": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=600",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "likes": 120,
+      "shares": 45
+    },
+    {
+      "id": "7",
+      "title": "Waterfall Mist",
+      "description": "Breathtaking tropical waterfall",
+      "thumbnail": "https://images.unsplash.com/photo-1432406186174-2b24f4860367?w=600",
+      "url": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
+      "likes": 34,
+      "shares": 8
+    },
+    {
+      "id": "8",
+      "title": "Starry Night",
+      "description": "Time-lapse of the Milky Way galaxy",
+      "thumbnail": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?w=600",
+      "url": "https://media.w3.org/2010/05/bunny/trailer.mp4",
+      "likes": 210,
+      "shares": 95
+    },
+    {
+      "id": "9",
+      "title": "Autumn Leaves",
+      "description": "Beautiful fall colors in Vermont",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600",
+      "url": "https://media.w3.org/2010/05/sintel/trailer_hd.mp4",
+      "likes": 42,
+      "shares": 11
+    },
+    {
+      "id": "10",
+      "title": "Snowy Peaks",
+      "description": "Skiing down the Swiss Alps",
+      "thumbnail": "https://images.unsplash.com/photo-1482862549707-f63cb32c5fd9?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "likes": 156,
+      "shares": 64
+    },
+    {
+      "id": "11",
+      "title": "River Rafting",
+      "description": "Extreme white water adventure",
+      "thumbnail": "https://images.unsplash.com/photo-1530866495561-507c9faab2ed?w=600",
+      "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "likes": 73,
+      "shares": 19
+    },
+    {
+      "id": "12",
+      "title": "Volcano Flow",
+      "description": "Active lava flowing into the sea",
+      "thumbnail": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "likes": 312,
+      "shares": 140
+    },
+    {
+      "id": "13",
+      "title": "Coral Reefs",
+      "description": "Scuba diving with sea turtles",
+      "thumbnail": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600",
+      "url": "https://www.w3schools.com/html/movie.mp4",
+      "likes": 95,
+      "shares": 38
+    },
+    {
+      "id": "14",
+      "title": "Green Meadows",
+      "description": "Rolling hills under blue skies",
+      "thumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "likes": 28,
+      "shares": 4
+    },
+    {
+      "id": "15",
+      "title": "Northern Lights",
+      "description": "Aurora Borealis in Norway",
+      "thumbnail": "https://images.unsplash.com/photo-1483168527879-c66136b56105?w=600",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp44",
+      "likes": 420,
+      "shares": 210
+    },
+    {
+      "id": "16",
+      "title": "Canyon Sunset",
+      "description": "Grand Canyon drone footage",
+      "thumbnail": "https://images.unsplash.com/photo-1615551043360-33de8b5f410c?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "likes": 115,
+      "shares": 30
+    },
+    {
+      "id": "17",
+      "title": "Foggy Mornings",
+      "description": "Mist rising above a mountain lake",
+      "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "likes": 67,
+      "shares": 15
+    },
+    {
+      "id": "18",
+      "title": "Beach Bonfire",
+      "description": "Cozy night by the ocean waves",
+      "thumbnail": "https://images.unsplash.com/photo-1537944434965-cf4679d1a598?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "likes": 88,
+      "shares": 25
+    },
+    {
+      "id": "19",
+      "title": "Lavender Fields",
+      "description": "Purple horizons in Provence",
+      "thumbnail": "https://images.unsplash.com/photo-1528826722806-890bb61b6666?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "likes": 104,
+      "shares": 40
+    },
+    {
+      "id": "20",
+      "title": "Rainforest Wildlife",
+      "description": "Exotic birds in the Amazon",
+      "thumbnail": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "likes": 79,
+      "shares": 18
+    },
+    {
+      "id": "21",
+      "title": "Icelandic Glaciers",
+      "description": "Exploring massive black sand ice blocks",
+      "thumbnail": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "likes": 230,
+      "shares": 88
+    },
+    {
+      "id": "22",
+      "title": "Country Roads",
+      "description": "Scenic drive through Tuscany",
+      "thumbnail": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "likes": 47,
+      "shares": 9
+    },
+    {
+      "id": "23",
+      "title": "Surfing Vibes",
+      "description": "Riding a massive wave in Hawaii",
+      "thumbnail": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=600",
+      "url": "https://www.w3schools.com/html/movie.mp4",
+      "likes": 184,
+      "shares": 52
+    },
+    {
+      "id": "24",
+      "title": "Storm Chasers",
+      "description": "Lightning lightning over lightning storms",
+      "thumbnail": "https://images.unsplash.com/photo-1461088945293-0c17689e48ac?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "likes": 290,
+      "shares": 112
+    },
+    {
+      "id": "25",
+      "title": "Bamboo Grove",
+      "description": "Serene Kyoto Arashiyama walkway",
+      "thumbnail": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp44",
+      "likes": 62,
+      "shares": 13
+    },
+    {
+      "id": "26",
+      "title": "Cyberpunk Streets",
+      "description": "Neon rain vibes in Neo-Seoul",
+      "thumbnail": "https://images.unsplash.com/photo-1515621061946-eff1c2a352bd?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "likes": 340,
+      "shares": 165
+    },
+    {
+      "id": "27",
+      "title": "Cozy Cabin",
+      "description": "Fireplace inside a winter lodge",
+      "thumbnail": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "likes": 98,
+      "shares": 31
+    },
+    {
+      "id": "28",
+      "title": "Deep Ocean",
+      "description": "Bizarre creatures of the Mariana Trench",
+      "thumbnail": "https://images.unsplash.com/photo-1551244072-5d12893278ab?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "likes": 175,
+      "shares": 59
+    },
+    {
+      "id": "29",
+      "title": "Hot Air Balloons",
+      "description": "Sunrise festival over Cappadocia",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "likes": 260,
+      "shares": 92
+    },
+    {
+      "id": "30",
+      "title": "Ancient Ruins",
+      "description": "Exploring Machu Picchu morning mist",
+      "thumbnail": "https://images.unsplash.com/photo-1508849789987-4e5333c12b78?w=600",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "likes": 143,
+      "shares": 44
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
