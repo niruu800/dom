@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect, useCallback } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import VideoCard from "./VideoCard";
+import VideoCard from "./VideoCard.jsx";
 
 export default function Carousel({ videos, onVideoClick }) {
   const [visibleCount, setVisibleCount] = useState(10);
