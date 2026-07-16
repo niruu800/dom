@@ -1,6 +1,6 @@
 import "./App.css";
-import { useVideoContext } from "../context/videocontext.jsx";
-import HomePage from "./layout/homePage";
+import { VideoProvider } from "./context/VideoContext.jsx";
+import HomePage from "./layout/homePage.jsx";
 
 function App() {
   return (
